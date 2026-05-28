@@ -1,0 +1,317 @@
+Date of Visit,Level,Department,Gender,Hostel,Diagnosis,Days Excused
+2024-01-02,Year 3,Mining Engineering,Female,De Lords,Upper Respiratory Tract Infection (URTI),1
+2024-01-05,Year 2,Minerals Engineering,Female,Off Campus / Private,Blood Pressure,2
+2024-01-05,Year 2,Geological Engineering,Female,Alhaji Hostel,Upper Respiratory Tract Infection (URTI),2
+2024-01-06,Year 3,Computer Science & Engineering,Female,De Lords,Mild Fever,2
+2024-01-13,Year 4,Chemical & Petrochemical Eng.,Male,The White Hostel,Eye Infection,1
+2024-01-15,Year 1,Electrical and Electronic Engineering,Male,Floga hostel,Blood Pressure,3
+2024-01-17,Year 1,Computer Science & Engineering,Female,Credit Union Hostel,Oblique Pulsion,3
+2024-01-17,Year 2,Computer Science & Engineering,Male,Off Campus / Private,Iron Deficiency,2
+2024-01-19,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Mild Fever,1
+2024-01-20,Year 3,Mechanical Engineering,Male,Tovet Hostel,Dysmenorrhea,1
+2024-01-27,Year 3,Mechanical Engineering,Male,Akobond Hostel,Stomach Ulcer,1
+2024-01-29,Year 3,Computer Science & Engineering,Female,Akoon,Typhoid Fever,4
+2024-01-31,Year 2,Geomatic Engineering,Male,Dubai Hostel,No Health Condition,0
+2024-02-02,Year 3,Computer Science & Engineering,Female,Janie’S,Eye Infection,2
+2024-02-02,Year 2,Mining Engineering,Male,KT hall,Food Poisoning,4
+2024-02-05,Year 4,Mechanical Engineering,Male,Janie’s,Eye Swollen,2
+2024-02-10,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Oblique Pulsion,1
+2024-02-12,Year 2,SPETs,Female,Akoon,Stomach Ulcer,2
+2024-02-16,Year 3,Chemical & Petrochemical Eng.,Male,Off Campus / Private,Iron Deficiency,2
+2024-02-17,Year 1,Environmental and Safety Engineering,Female,Dubai Hostel,Migraine,2
+2024-02-25,Year 2,Geomatic Engineering,Male,Off Campus / Private,Food Poisoning,2
+2024-03-03,Year 3,Computer Science & Engineering,Male,Floga Hostel,Malaria,2
+2024-03-04,Year 1,Computer Science & Engineering,Male,Akoon,Food Poisoning,2
+2024-03-06,Year 2,Minerals Engineering,Female,Dubai Hostel,Oblique Pulsion,2
+2024-03-13,Year 1,Computer Science & Engineering,Male,The Point Hostel,Malaria,0
+2024-03-20,Year 2,Environmental and Safety Engineering,Female,Akobond Hostel,Skin Infection,3
+2024-03-26,Year 3,Mining Engineering,Male,Janie’S,No Health Condition,0
+2024-03-26,Year 3,Environmental and Safety Engineering,Female,Credit Union Hostel,Migraine,1
+2024-04-01,Year 1,Mining Engineering,Female,De Lords,Migraine,2
+2024-04-03,Year 1,Electrical and Electronic Engineering,Male,Janie’s,Typhoid Fever,4
+2024-04-07,Year 2,Mining Engineering,Female,Off Campus,Dysmenorrhea (Cramps),1
+2024-04-12,Year 1,Geomatic Engineering,Male,The White Hostel,Eye Infection,1
+2024-04-21,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Malaria,2
+2024-04-26,Year 3,Computer Science & Engineering,Female,Akobond Hostel,Muscle Spasm,3
+2024-05-01,Year 4,Petroleum Engineering,Male,Kabi'S Hostel,Dysmenorrhea,1
+2024-05-02,Year 3,Minerals Engineering,Female,Fruben Hostel,Migraine,2
+2024-05-03,Year 4,Mathematical Sciences,Female,Gold Refinery Hall,Muscle Spasm,1
+2024-05-08,Year 1,Computer Science & Engineering,Female,Gold Refinery Hall,Muscle Spasm,2
+2024-05-18,Year 1,Computer Science & Engineering,Male,Off Campus / Private,Dysmenorrhea,2
+2024-05-19,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Malaria,4
+2024-05-31,Year 4,Electrical and Electronic Engineering,Female,TOVET Hostel,Oblique Pulsion,2
+2024-06-02,Year 3,Computer Science & Engineering,Male,Akobond Hostel,No Health Condition,0
+2024-06-04,Year 2,Minerals Engineering,Female,Chamber of Mines Hall,Oblique Pulsion,1
+2024-06-06,Year 3,Computer Science & Engineering,Male,Janie’S,Malaria,3
+2024-06-09,Year 2,Minerals Engineering,Female,Dubai Hostel,Food Poisoning,2
+2024-06-12,Year 2,Geomatic Engineering,Male,Hilda Hostel,Blood Pressure,1
+2024-06-17,Year 3,Computer Science & Engineering,Female,Kamp City,Malaria,2
+2024-06-26,Year 3,Computer Science & Engineering,Male,Alhaji Hostel,Malaria,2
+2024-07-01,Year 4,School of Petroleum Studies,Female,Kabi'S Hostel,Migraine,1
+2024-07-04,Year 1,Mining Engineering,Male,Akoon,Skin Infection,2
+2024-07-08,Year 1,Minerals Engineering,Male,Janie’s,No health condition,0
+2024-07-09,Year 2,Chemical and Petrochemical Engineering,Male,Akobond Hostel,Eye Swollen,1
+2024-07-10,Year 4,Computer Science & Engineering,Male,De Lords,No Health Condition,0
+2024-07-12,Year 2,Minerals Engineering,Male,Ck Hostel,Dysmenorrhea,2
+2024-07-14,Year 3,Petroleum Engineering,Male,Chamber Of Mines Hall,Dysmenorrhea,1
+2024-07-14,Year 1,Mechanical Engineering,Male,Floga hostel,No health condition,0
+2024-07-18,Year 3,Computer Science & Engineering,Female,Janie’S,Typhoid Fever,3
+2024-07-18,Year 2,Minerals Engineering,Male,Off Campus / Private,Mild Fever,2
+2024-07-20,Year 4,Geological Engineering,Female,Serene,Deficiency of iron,3
+2024-07-20,Year 4,Environmental & Safety Eng.,Male,De Lords,Skin Infection,1
+2024-07-20,Year 1,Mining Engineering,Female,Gold Refinery Hall,Typhoid Fever,5
+2024-07-22,Year 2,Chemical and Petrochemical Engineering,Male,The White Hostel,Mild Fever,2
+2024-07-25,Year 2,Minerals Engineering,Female,The Point Hostel,Eye Infection,3
+2024-07-29,Year 1,Mining Engineering,Male,Chamber Of Mines Hall,Migraine,1
+2024-08-07,Year 1,Minerals Engineering,Male,KT hall,Stomach Ulcer,2
+2024-08-13,Year 1,Chemical and Petrochemical Engineering,Male,Serene,Mild Fever,2
+2024-08-14,Year 2,Chemical and Petrochemical Engineering,Female,Layout,Food Poisoning,5
+2024-08-15,Year 3,Geological Engineering,Female,Fruben Hostel,Eye Swollen,1
+2024-08-16,Year 1,Environmental and Safety Engineering,Male,KT hall,Skin Infection,3
+2024-08-17,Year 2,Electrical and Electronic Engineering,Female,De Lords,Dysmenorrhea (Cramps),1
+2024-08-30,Year 1,Computer Science & Engineering,Female,Kt Hall,Muscle Spasm,1
+2024-09-03,Year 2,Electrical and Electronic Engineering,Female,Chamber of Mines Hall,Skin Infection,3
+2024-09-04,Year 1,Geomatic Engineering,Female,De Lords,Deficiency of iron,3
+2024-09-06,Year 2,Mechanical Engineering,Female,Floga Hostel,Malaria,4
+2024-09-11,Year 1,Computer Science & Engineering,Male,Floga Hostel,Stomach Ulcer,1
+2024-09-11,Year 2,Electrical and Electronic Engineering,Male,Off Campus,No health condition,0
+2024-09-15,Year 2,SPETs,Male,Off Campus,Eye Swollen,1
+2024-09-21,Year 3,Minerals Engineering,Female,PC,Upper Respiratory Tract Infection (URTI),3
+2024-09-29,Year 2,Mechanical Engineering,Male,RNM Main,Food Poisoning,2
+2024-09-30,Year 1,Chemical & Petrochemical Eng.,Male,Alhaji Hostel,Oblique Pulsion,1
+2024-10-04,Year 2,Computer Science & Engineering,Female,Floga Hostel,Typhoid Fever,4
+2024-10-10,Year 1,Environmental and Safety Engineering,Female,Kamp City,Mild Fever,2
+2024-10-11,Year 4,Computer Science & Engineering,Male,Gold Refinery Hall,Oblique Pulsion,2
+2024-10-14,Year 3,Mechanical Engineering,Male,Rnm Main,Iron Deficiency,3
+2024-10-20,Year 1,Geomatic Engineering,Female,Hilda Hostel,Mild Fever,2
+2024-10-23,Year 2,Computer Science & Engineering,Female,De Lords,Blood Pressure,3
+2024-10-23,Year 1,Environmental & Safety Eng.,Male,Fruben Hostel,Malaria,2
+2024-10-29,Year 2,Mathematical Sciences,Male,Serene,Migraine,2
+2024-10-30,Year 4,Geomatic Engineering,Female,De Lords,Typhoid Fever,4
+2024-10-31,Year 3,SPETs,Male,Kabi's Hostel,Migraine,1
+2024-11-08,Year 3,Electrical and Electronic Engineering,Male,Layout,Migraine,2
+2024-11-12,Year 2,Geological Engineering,Female,Fruben Hostel,Oblique Pulsion,1
+2024-11-15,Year 2,Mechanical Engineering,Male,Janie’s,Skin Infection,2
+2024-11-16,Year 2,Chemical and Petrochemical Engineering,Male,The Point Hostel,No health condition,0
+2024-11-17,Year 2,Computer Science & Engineering,Male,Ck Hostel,Typhoid Fever,5
+2024-11-22,Year 2,Mining Engineering,Male,De Lords,Stomach Ulcer,3
+2024-11-29,Year 1,SPETs,Male,Serene,Skin Infection,3
+2024-12-02,Year 4,Geomatic Engineering,Female,Hilda Hostel,Malaria,4
+2024-12-04,Year 1,Computer Science & Engineering,Female,Chamber Of Mines Hall,Migraine,1
+2024-12-04,Year 1,Mechanical Engineering,Female,CK Hostel,Blood Pressure,3
+2024-12-10,Year 1,Computer Science & Engineering,Female,Kabi'S Hostel,Migraine,2
+2024-12-11,Year 2,Environmental and Safety Engineering,Female,Alhaji Hostel,Mild Fever,1
+2024-12-12,Year 4,Chemical & Petrochemical Eng.,Male,Kabi'S Hostel,Mild Fever,2
+2024-12-15,Year 2,Geological Engineering,Male,Chamber of Mines Hall,Typhoid Fever,4
+2024-12-15,Year 4,Computer Science & Engineering,Female,Kabi'S Hostel,Malaria,5
+2024-12-19,Year 1,Computer Science & Engineering,Female,Off Campus / Private,Malaria,4
+2024-12-21,Year 2,Minerals Engineering,Female,Akobond Hostel,Stomach Ulcer,1
+2025-01-04,Year 3,Computer Science & Engineering,Male,Kt Hall,Malaria,4
+2025-01-06,Year 1,Petroleum Engineering,Female,PC,Skin Infection,1
+2025-01-19,Year 2,Mechanical Engineering,Female,Akobond Hostel,Oblique Pulsion,3
+2025-01-21,Year 2,Computer Science & Engineering,Male,Off Campus / Private,No Health Condition,0
+2025-01-26,Year 2,Petroleum Engineering,Male,Hilda Hostel,No health condition,0
+2025-01-26,Year 2,Environmental and Safety Engineering,Male,De Lords,Muscle Spasm,3
+2025-01-28,Year 2,Geological Engineering,Male,KT hall,Oblique Pulsion,3
+2025-01-31,Year 2,Minerals Engineering,Male,RNM Main,Dysmenorrhea (Cramps),2
+2025-02-02,Year 1,Geomatic Engineering,Female,Serene,Skin Infection,3
+2025-02-09,Year 1,Mechanical Engineering,Male,Janie’s,Food Poisoning,4
+2025-02-10,Year 1,Petroleum Engineering,Female,Credit Union Hostel,Skin Infection,2
+2025-02-15,Year 3,Computer Science & Engineering,Female,Chamber Of Mines Hall,Malaria,4
+2025-02-16,Year 2,SPETs,Male,CK Hostel,Stomach Ulcer,1
+2025-02-25,Year 3,Environmental and Safety Engineering,Female,Alhaji Hostel,Skin Infection,2
+2025-03-03,Year 3,School of Petroleum Studies,Female,Dubai Hostel,Malaria,4
+2025-03-05,Year 1,Mechanical Engineering,Male,Janie’s,Stomach Ulcer,2
+2025-03-13,Year 1,Computer Science & Engineering,Male,Kabi'S Hostel,URTI,3
+2025-03-14,Year 2,Mechanical Engineering,Male,Kabi's Hostel,Food Poisoning,5
+2025-04-01,Year 2,Mechanical Engineering,Male,Akoon,Malaria,1
+2025-04-02,Year 2,Geomatic Engineering,Male,Gold Refinery Hall,Migraine,1
+2025-04-04,Year 2,Geomatic Engineering,Male,Gold Refinery Hall,Food Poisoning,2
+2025-04-06,Year 2,Geomatic Engineering,Male,Chamber of Mines Hall,Stomach Ulcer,2
+2025-04-07,Year 2,Chemical & Petrochemical Eng.,Male,Kt Hall,Skin Infection,3
+2025-04-14,Year 1,Mining Engineering,Male,Kabi'S Hostel,Iron Deficiency,2
+2025-04-14,Year 1,Mining Engineering,Male,Fruben Hostel,Eye Swollen,2
+2025-04-16,Year 2,Mining Engineering,Male,The White Hostel,Stomach Ulcer,1
+2025-04-20,Year 4,Petroleum Engineering,Male,Floga hostel,Muscle Spasm,1
+2025-04-28,Year 2,Environmental and Safety Engineering,Female,Off Campus,No health condition,0
+2025-04-28,Year 3,Chemical and Petrochemical Engineering,Male,Layout,Food Poisoning,3
+2025-04-29,Year 1,Mechanical Engineering,Male,Credit Union Hostel,Muscle Spasm,1
+2025-04-30,Year 1,Chemical and Petrochemical Engineering,Female,CK Hostel,Upper Respiratory Tract Infection (URTI),1
+2025-05-01,Year 3,Computer Science & Engineering,Female,Kabi'S Hostel,Food Poisoning,3
+2025-05-02,Year 1,SPETs,Female,Kamp City,Dysmenorrhea (Cramps),1
+2025-05-05,Year 1,Chemical and Petrochemical Engineering,Male,Dubai Hostel,Food Poisoning,2
+2025-05-10,Year 2,Geological Engineering,Male,Floga hostel,Food Poisoning,4
+2025-05-15,Year 1,Mining Engineering,Female,RNM Main,Migraine,1
+2025-05-22,Year 3,Computer Science & Engineering,Female,Fruben Hostel,Food Poisoning,5
+2025-05-25,Year 2,Computer Science & Engineering,Male,Alhaji Hostel,Food Poisoning,2
+2025-05-26,Year 4,Chemical and Petrochemical Engineering,Male,Floga hostel,Typhoid Fever,3
+2025-05-31,Year 2,SPETs,Female,Alhaji Hostel,Deficiency of iron,2
+2025-06-17,Year 3,Computer Science & Engineering,Male,Credit Union Hostel,Malaria,3
+2025-06-18,Year 3,Computer Science & Engineering,Female,Kamp City,Mild Fever,1
+2025-06-21,Year 1,Mining Engineering,Female,Serene,Blood Pressure,3
+2025-06-25,Year 3,Geological Engineering,Female,Janie’S,Blood Pressure,3
+2025-06-28,Year 4,Minerals Engineering,Female,RNM Main,Mild Fever,2
+2025-06-29,Year 2,Mining Engineering,Male,Chamber of Mines Hall,Oblique Pulsion,2
+2025-06-30,Year 1,Geomatic Engineering,Female,Akobond Hostel,Stomach Ulcer,1
+2025-07-07,Year 1,Minerals Engineering,Male,The White Hostel,Typhoid Fever,2
+2025-07-08,Year 3,Geomatic Engineering,Male,Alhaji Hostel,Migraine,2
+2025-07-08,Year 3,Computer Science & Engineering,Male,Serene,Typhoid Fever,2
+2025-07-10,Year 1,SPETs,Female,Gold Refinery Hall,Stomach Ulcer,3
+2025-07-13,Year 2,Environmental and Safety Engineering,Male,Alhaji Hostel,Oblique Pulsion,1
+2025-07-16,Year 1,Mechanical Engineering,Male,Serene,Muscle Spasm,2
+2025-07-22,Year 4,Computer Science & Engineering,Male,The Point Hostel,Typhoid Fever,5
+2025-07-24,Year 2,SPETs,Male,Chamber of Mines Hall,Blood Pressure,3
+2025-08-04,Year 2,Petroleum Engineering,Female,Gold Refinery Hall,No health condition,0
+2025-08-12,Year 3,Petroleum Engineering,Male,Ck Hostel,Oblique Pulsion,3
+2025-08-14,Year 3,Computer Science & Engineering,Female,Kt Hall,Stomach Ulcer,3
+2025-08-20,Year 1,Electrical and Electronic Engineering,Male,TOVET Hostel,Upper Respiratory Tract Infection (URTI),2
+2025-08-22,Year 2,Chemical and Petrochemical Engineering,Male,Dubai Hostel,Skin Infection,2
+2025-08-26,Year 1,Computer Science & Engineering,Male,Rnm Main,Typhoid Fever,3
+2025-09-03,Year 3,Mechanical Engineering,Male,Dubai Hostel,Iron Deficiency,2
+2025-09-09,Year 1,Geomatic Engineering,Male,KT hall,Skin Infection,2
+2025-09-14,Year 1,Computer Science & Engineering,Male,Off Campus / Private,Malaria,4
+2025-09-15,Year 2,Mining Engineering,Female,Chamber of Mines Hall,No health condition,0
+2025-09-25,Year 4,SPETs,Male,Gold Refinery Hall,Muscle Spasm,2
+2025-09-25,Year 1,Computer Science & Engineering,Male,Janie’S,Dysmenorrhea,1
+2025-09-27,Year 1,Geomatic Engineering,Female,Serene,Food Poisoning,2
+2025-09-30,Year 3,Minerals Engineering,Male,Kamp City,Typhoid Fever,2
+2025-10-04,Year 3,Minerals Engineering,Female,Alhaji Hostel,Eye Swollen,1
+2025-10-15,Year 3,Computer Science & Engineering,Male,Rnm Main,Malaria,5
+2025-10-17,Year 2,Mechanical Engineering,Female,De Lords,Blood Pressure,3
+2025-10-22,Year 2,Petroleum Engineering,Male,TOVET Hostel,Eye Swollen,2
+2025-10-27,Year 1,Mining Engineering,Male,The White Hostel,Stomach Ulcer,1
+2025-11-04,Year 2,School of Petroleum Studies,Female,Hilda Hostel,Skin Infection,3
+2025-11-07,Year 3,Electrical and Electronic Engineering,Male,KT hall,Mild Fever,1
+2025-11-08,Year 4,SPETs,Female,Dubai Hostel,Typhoid Fever,2
+2025-11-10,Year 1,Computer Science & Engineering,Female,Ck Hostel,Typhoid Fever,3
+2025-11-13,Year 2,Petroleum Engineering,Female,TOVET Hostel,Skin Infection,2
+2025-11-30,Year 1,Computer Science & Engineering,Female,Akoon,Mild Fever,1
+2025-12-05,Year 3,Minerals Engineering,Female,Alhaji Hostel,Migraine,1
+2025-12-06,Year 4,Geomatic Engineering,Male,Off Campus / Private,Malaria,5
+2025-12-10,Year 3,Minerals Engineering,Female,Kt Hall,Malaria,3
+2025-12-12,Year 1,Electrical and Electronic Engineering,Female,Layout,Oblique Pulsion,3
+2025-12-16,Year 3,Geomatic Engineering,Male,Janie’S,Typhoid Fever,4
+2025-12-20,Year 2,Mechanical Engineering,Male,Dubai Hostel,Eye Swollen,1
+2025-12-21,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Eye Infection,2
+2025-12-24,Year 3,Computer Science & Engineering,Male,Tovet Hostel,Malaria,2
+2025-12-26,Year 3,Computer Science & Engineering,Female,Credit Union Hostel,Malaria,2
+2025-12-28,Year 4,Chemical & Petrochemical Eng.,Male,Tovet Hostel,Stomach Ulcer,2
+2025-12-28,Year 3,Chemical & Petrochemical Eng.,Female,Akoon,Eye Infection,2
+2025-12-29,Year 2,Computer Science & Engineering,Male,The Point Hostel,Eye Infection,1
+2025-12-29,Year 3,Computer Science & Engineering,Female,Tovet Hostel,Stomach Ulcer,5
+2025-12-30,Year 3,Electrical & Electronic Eng.,Male,Janie’S,Malaria,3
+2025-12-30,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Oblique Pulsion,2
+2025-12-31,Year 3,School of Petroleum Studies,Male,Serene,Malaria,4
+2025-12-31,Year 3,Mathematical Sciences,Female,Alhaji Hostel,Malaria,1
+2026-01-02,Year 3,Computer Science & Engineering,Male,Kabi'S Hostel,Malaria,4
+2026-01-03,Year 4,Computer Science & Engineering,Female,Off Campus / Private,No Health Condition,0
+2026-01-04,Year 3,Geomatic Engineering,Male,Rnm Main,Mild Fever,1
+2026-01-04,Year 3,Computer Science & Engineering,Female,Alhaji Hostel,Malaria,4
+2026-01-05,Year 3,Geomatic Engineering,Male,Off Campus / Private,Skin Infection,2
+2026-01-05,Year 3,Minerals Engineering,Male,Akobond Hostel,Malaria,3
+2026-01-06,Year 3,Environmental & Safety Eng.,Male,Hilda Hostel,Malaria,4
+2026-01-09,Year 2,Computer Science & Engineering,Male,Akoon,Malaria,3
+2026-01-09,Year 3,Geomatic Engineering,Male,Akobond Hostel,Skin Infection,1
+2026-01-11,Year 2,Computer Science & Engineering,Male,Janie’S,Malaria,2
+2026-01-11,Year 3,Computer Science & Engineering,Male,Kamp City,Malaria,3
+2026-01-12,Year 1,Minerals Engineering,Male,De Lords,Stomach Ulcer,3
+2026-01-12,Year 3,Computer Science & Engineering,Male,De Lords,Skin Infection,3
+2026-01-13,Year 3,Geomatic Engineering,Female,Hilda Hostel,Malaria,3
+2026-01-15,Year 3,Computer Science & Engineering,Male,Hilda Hostel,Malaria,2
+2026-01-15,Year 3,Computer Science & Engineering,Male,Alhaji Hostel,Blood Pressure,2
+2026-01-15,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Food Poisoning,4
+2026-01-15,Year 3,Mining Engineering,Female,Off Campus / Private,Mild Fever,1
+2026-01-16,Year 3,Chemical & Petrochemical Eng.,Female,The Point Hostel,Eye Infection,5
+2026-01-19,Year 2,Mathematical Sciences,Male,Alhaji Hostel,Muscle Spasm,1
+2026-01-19,Year 2,Mechanical Engineering,Female,Off Campus / Private,URTI,1
+2026-01-20,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Food Poisoning,3
+2026-01-22,Year 2,Mechanical Engineering,Female,Off Campus / Private,Malaria,5
+2026-01-23,Year 3,Computer Science & Engineering,Female,Gold Refinery Hall,Malaria,3
+2026-01-23,Year 3,Environmental & Safety Eng.,Male,Akobond Hostel,No Health Condition,0
+2026-01-25,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Oblique Pulsion,3
+2026-01-25,Year 2,Computer Science & Engineering,Male,De Lords,Malaria,1
+2026-01-28,Year 3,Minerals Engineering,Male,Akobond Hostel,URTI,1
+2026-01-28,Year 4,Computer Science & Engineering,Female,Floga Hostel,Eye Infection,3
+2026-01-28,Year 3,Mathematical Sciences,Male,Akobond Hostel,Oblique Pulsion,5
+2026-01-29,Year 1,Computer Science & Engineering,Male,Off Campus / Private,Eye Infection,4
+2026-01-29,Year 3,Computer Science & Engineering,Female,Ck Hostel,Malaria,5
+2026-01-30,Year 3,Computer Science & Engineering,Female,The Point Hostel,Malaria,1
+2026-01-30,Year 4,Computer Science & Engineering,Male,Credit Union Hostel,Oblique Pulsion,4
+2026-01-30,Year 4,Mechanical Engineering,Male,Gold Refinery Hall,Malaria,5
+2026-01-30,Year 3,Chemical & Petrochemical Eng.,Female,Serene,Malaria,0
+2026-01-31,Year 4,Computer Science & Engineering,Male,Gold Refinery Hall,Malaria,1
+2026-01-31,Year 1,Computer Science & Engineering,Male,The Point Hostel,Oblique Pulsion,3
+2026-02-01,Year 1,Mechanical Engineering,Male,Gold Refinery Hall,Typhoid Fever,4
+2026-02-01,Year 3,Petroleum Engineering,Male,Off Campus / Private,Malaria,3
+2026-02-03,Year 1,Mechanical Engineering,Male,Janie’S,Mild Fever,5
+2026-02-05,Year 3,Computer Science & Engineering,Female,Rnm Main,Eye Infection,6
+2026-02-06,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Malaria,2
+2026-02-09,Year 4,Geomatic Engineering,Female,The White Hostel,No Health Condition,0
+2026-02-10,Year 3,Computer Science & Engineering,Male,Tovet Hostel,Stomach Ulcer,7
+2026-02-10,Year 3,Computer Science & Engineering,Female,Credit Union Hostel,Malaria,3
+2026-02-10,Year 3,Computer Science & Engineering,Male,Gold Refinery Hall,Blood Pressure,3
+2026-02-11,Year 4,Computer Science & Engineering,Female,Chamber Of Mines Hall,Stomach Ulcer,4
+2026-02-12,Year 1,Computer Science & Engineering,Male,Janie’S,Malaria,3
+2026-02-13,Year 3,Geological Engineering,Female,Ck Hostel,Muscle Spasm,1
+2026-02-16,Year 3,Computer Science & Engineering,Female,Tovet Hostel,Skin Infection,2
+2026-02-16,Year 3,Computer Science & Engineering,Female,Tovet Hostel,Stomach Ulcer,3
+2026-02-17,Year 3,Computer Science & Engineering,Male,Dubai Hostel,Typhoid Fever,3
+2026-02-17,Year 3,Mathematical Sciences,Female,Dubai Hostel,Blood Pressure,5
+2026-02-17,Year 3,Mining Engineering,Male,Rnm Main,Malaria,4
+2026-02-20,Year 4,Computer Science & Engineering,Male,Tovet Hostel,Malaria,2
+2026-02-20,Year 3,Computer Science & Engineering,Male,Chamber Of Mines Hall,Blood Pressure,3
+2026-02-20,Year 3,Computer Science & Engineering,Female,Tovet Hostel,Mild Fever,4
+2026-02-22,Year 3,Computer Science & Engineering,Male,Dubai Hostel,Malaria,4
+2026-02-23,Year 2,Mathematical Sciences,Male,Serene,Blood Pressure,5
+2026-02-24,Year 4,Geological Engineering,Female,Gold Refinery Hall,Malaria,5
+2026-02-24,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Iron Deficiency,2
+2026-02-25,Year 3,Computer Science & Engineering,Female,Credit Union Hostel,Malaria,3
+2026-02-25,Year 3,Computer Science & Engineering,Female,Janie’S,No Health Condition,0
+2026-02-25,Year 1,Computer Science & Engineering,Male,Dubai Hostel,Malaria,1
+2026-02-26,Year 3,Mechanical Engineering,Male,Chamber Of Mines Hall,Iron Deficiency,4
+2026-02-26,Year 3,Mechanical Engineering,Male,Credit Union Hostel,Malaria,1
+2026-02-27,Year 1,Computer Science & Engineering,Male,Dubai Hostel,Malaria,2
+2026-02-28,Year 3,Chemical & Petrochemical Eng.,Female,Dubai Hostel,Malaria,3
+2026-02-28,Year 3,Chemical & Petrochemical Eng.,Female,Credit Union Hostel,Malaria,5
+2026-03-01,Year 2,Computer Science & Engineering,Male,Alhaji Hostel,Malaria,5
+2026-03-01,Year 3,Computer Science & Engineering,Male,Gold Refinery Hall,Stomach Ulcer,3
+2026-03-02,Year 3,Computer Science & Engineering,Female,Chamber Of Mines Hall,Food Poisoning,2
+2026-03-02,Year 2,Computer Science & Engineering,Female,Floga Hostel,No Health Condition,0
+2026-03-03,Year 2,Computer Science & Engineering,Female,The White Hostel,Malaria,3
+2026-03-03,Year 2,Geological Engineering,Female,Hilda Hostel,Oblique Pulsion,1
+2026-03-04,Year 1,School of Petroleum Studies,Male,Janie’S,Blood Pressure,2
+2026-03-04,Year 1,Computer Science & Engineering,Male,Rnm Main,Iron Deficiency,5
+2026-03-05,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Oblique Pulsion,5
+2026-03-08,Year 4,Petroleum Engineering,Female,Chamber Of Mines Hall,Iron Deficiency,1
+2026-03-09,Year 3,Computer Science & Engineering,Male,The Point Hostel,Mild Fever,1
+2026-03-11,Year 2,Computer Science & Engineering,Female,Alhaji Hostel,Malaria,4
+2026-03-13,Year 3,Computer Science & Engineering,Male,Akoon,Stomach Ulcer,4
+2026-03-15,Year 4,Computer Science & Engineering,Male,Credit Union Hostel,No Health Condition,0
+2026-03-15,Year 3,Computer Science & Engineering,Male,Rnm Main,Malaria,1
+2026-03-16,Year 3,Computer Science & Engineering,Female,Off Campus / Private,Skin Infection,2
+2026-03-16,Year 3,Computer Science & Engineering,Male,Alhaji Hostel,Eye Infection,4
+2026-03-18,Year 4,Computer Science & Engineering,Male,Kamp City,Malaria,5
+2026-03-18,Year 2,Computer Science & Engineering,Female,Credit Union Hostel,Typhoid Fever,5
+2026-03-18,Year 1,School of Petroleum Studies,Male,The Point Hostel,No Health Condition,0
+2026-03-20,Year 3,Computer Science & Engineering,Female,Chamber Of Mines Hall,Iron Deficiency,2
+2026-03-21,Year 3,Mechanical Engineering,Female,Hilda Hostel,Eye Infection,3
+2026-03-21,Year 1,Computer Science & Engineering,Male,Alhaji Hostel,Blood Pressure,3
+2026-03-22,Year 1,Mathematical Sciences,Female,Chamber Of Mines Hall,Iron Deficiency,2
+2026-03-22,Year 3,Mathematical Sciences,Female,Hilda Hostel,Malaria,4
+2026-03-22,Year 3,Chemical & Petrochemical Eng.,Female,Hilda Hostel,No Health Condition,0
+2026-03-23,Year 2,Computer Science & Engineering,Male,Chamber Of Mines Hall,Malaria,1
+2026-03-25,Year 3,Computer Science & Engineering,Male,Akoon,Malaria,2
+2026-03-26,Year 2,Computer Science & Engineering,Male,Hilda Hostel,Malaria,3
+2026-03-27,Year 3,Computer Science & Engineering,Male,Serene,Stomach Ulcer,3
+2026-03-27,Year 1,Computer Science & Engineering,Male,Gold Refinery Hall,No Health Condition,0
+2026-03-27,Year 1,Computer Science & Engineering,Male,Gold Refinery Hall,Malaria,2
+2026-03-27,Year 3,Petroleum Engineering,Female,Off Campus / Private,Malaria,5
+2026-03-28,Year 3,Geomatic Engineering,Female,Off Campus / Private,Malaria,4
+2026-03-29,Year 1,Computer Science & Engineering,Male,Ck Hostel,Malaria,3
+2026-03-30,Year 3,Computer Science & Engineering,Female,Akobond Hostel,Malaria,2
+2026-03-31,Year 3,Chemical & Petrochemical Eng.,Male,De Lords,No Health Condition,0
+2026-03-31,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Migraine,2
+2026-03-31,Year 3,Computer Science & Engineering,Male,Off Campus / Private,Oblique Pulsion,5
+2026-04-01,Year 3,Mathematical Sciences,Female,Akobond Hostel,Migraine,2
+2026-04-01,Year 3,Minerals engineering,Male,White house,No problem,1
+2026-04-01,Year 3,Minerals Engineering,Male,Off Campus / Private,No Health Condition,1

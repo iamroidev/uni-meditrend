@@ -1,0 +1,317 @@
+Timestamp,Level,Department,Gender,Hostel / Residence,Date of Visit,Diagnosis,Days Excused
+3/30/2026 10:59:45,Year 3,ASCES,Male,TOVET HOSTEL,2/10/2026,Stomach  Ulcer,7
+3/30/2026 11:02:42,Year 3,Computer Science and Engineering,Male,Janie’s,6/6/2024,Malaria,3
+3/30/2026 11:43:31,Year 3,Computer Science and Engineering ,Female,Akobond Hostel ,3/30/2026,Malaria ,2
+3/30/2026 11:59:50,Year 2,Year 2,Female,PC,7/18/2024,Malaria ,2
+3/31/2026 6:22:48,Year 3,Computer Science and Engineering ,Male,Layout,3/31/2026,oblique pulsion ,5
+3/31/2026 13:38:51,Year 3,Chemical and Petrochemical Engineering Department ,Male,De Lords ,3/31/2026,Good one ,0
+3/31/2026 14:13:24,Year 3,Chemical and petrochemical department,Female,Serene,1/30/2026,Malaria,0
+3/31/2026 15:20:56,Year 3,Computer science and Mathematics ,Female,RNM main,2/5/2026,Eye swollen ,6
+3/31/2026 15:54:48,Year 4,Computer Science and Engineering Department ,Male,Kamp City ,3/18/2026,Malaria ,5
+3/31/2026 16:53:44,Year 1,Computer science and engineering ,Male,Alhaji hostel ,3/21/2026,Blood pressure ,3
+3/31/2026 19:06:05,Year 1,SPETs,Male,The Point Hostel,3/18/2026,No health condition,0
+4/1/2026 2:15:18,Year 2,Mechanical Engineering ,Male,Akoon,4/1/2025,Malaria,1
+4/1/2026 6:33:12,Year 3,Computer science and engineering ,Female,Chamber of Mines Hall,3/20/2026,Deficiency of iron ,2
+4/1/2026 8:23:40,Year 3,Computer Science and Engineering Department ,Male,OFF campus,1/19/2024,Mild Fever,1
+4/1/2026 19:39:08,Year 3,Computer Science and Engineering,Female,TOVET Hostel,2/20/2026,Mild Fever,4
+4/1/2026 19:39:10,Year 3,ASCES,Male,Alhaji Hostel,3/16/2026,Eye Swollen,4
+4/1/2026 19:39:12,Year 3,ASCES,Male,Off Campus,2/6/2026,Malaria,2
+4/1/2026 19:39:14,Year 1,Computer Science and Engineering,Male,Dubai Hostel,2/27/2026,Malaria,2
+4/1/2026 19:39:16,Year 1,Computer Science and Engineering,Male,Janie’s,2/12/2026,Malaria,3
+4/1/2026 19:39:19,Year 3,Computer Science and Engineering,Male,Hilda Hostel,1/15/2026,Malaria,2
+4/1/2026 19:39:21,Year 4,Computer Science and Engineering,Male,Credit Union Hostel,1/30/2026,Oblique Pulsion,4
+4/1/2026 19:39:23,Year 3,Computer Science and Engineering,Female,Janie’s,2/25/2026,No health condition,0
+4/1/2026 19:39:25,Year 3,Computer Science and Engineering,Male,TOVET Hostel,12/24/2025,Malaria,2
+4/1/2026 19:39:27,Year 3,Computer Science and Engineering,Male,RNM Main,3/15/2026,Malaria,1
+4/1/2026 19:39:29,Year 3,Computer Science and Engineering,Female,The Point Hostel,1/30/2026,Malaria,1
+4/1/2026 19:39:31,Year 3,Computer Science and Engineering,Female,TOVET Hostel,2/16/2026,Stomach Ulcer,3
+4/1/2026 19:39:33,Year 3,Computer Science and Engineering,Female,Gold Refinery Hall,1/23/2026,Malaria,3
+4/1/2026 19:39:35,Year 3,Computer Science and Engineering,Male,Alhaji Hostel,1/15/2026,Blood Pressure,2
+4/1/2026 19:39:37,Year 3,ASCES,Female,Credit Union Hostel,12/26/2025,Malaria,2
+4/1/2026 19:39:40,Year 3,ASCES,Male,Akoon,3/13/2026,Stomach Ulcer,4
+4/1/2026 19:39:42,Year 3,Chemical and Petrochemical Engineering,Female,Hilda Hostel,3/22/2026,No health condition,0
+4/1/2026 19:39:44,Year 3,Computer Science and Engineering,Male,Off Campus,3/5/2026,Oblique Pulsion,5
+4/1/2026 19:39:46,Year 3,Chemical and Petrochemical Engineering,Female,Dubai Hostel,2/28/2026,Malaria,3
+4/1/2026 19:39:48,Year 3,Computer Science and Engineering,Female,PC,2/24/2026,Deficiency of iron,2
+4/1/2026 19:39:50,Year 2,Computer Science and Engineering,Male,Hilda Hostel,3/26/2026,Malaria,3
+4/1/2026 19:39:52,Year 2,ASCES,Male,Chamber of Mines Hall,3/23/2026,Malaria,1
+4/1/2026 19:39:54,Year 3,Computer Science and Engineering,Female,TOVET Hostel,12/29/2025,Stomach Ulcer,5
+4/1/2026 19:39:56,Year 3,Mechanical Engineering,Male,Credit Union Hostel,2/26/2026,Malaria,1
+4/1/2026 19:39:58,Year 3,Chemical and Petrochemical Engineering,Female,Akoon,12/28/2025,Eye Swollen,2
+4/1/2026 19:40:00,Year 2,Computer Science and Engineering,Male,De Lords,1/25/2026,Malaria,1
+4/1/2026 19:40:02,Year 1,SPETs,Male,Janie’s,3/4/2026,Blood Pressure,2
+4/1/2026 19:40:04,Year 3,Computer Science and Engineering,Male,Kamp City,1/11/2026,Malaria,3
+4/1/2026 19:40:06,Year 3,Computer Science and Engineering,Male,Chamber of Mines Hall,2/20/2026,Blood Pressure,3
+4/1/2026 19:40:08,Year 3,Computer Science and Engineering,Female,Credit Union Hostel,2/25/2026,Malaria,3
+4/1/2026 19:40:10,Year 3,Mathematics,Male,Akobond Hostel,1/28/2026,Oblique Pulsion,5
+4/1/2026 19:40:12,Year 3,Computer Science and Engineering,Male,PC,1/25/2026,Oblique Pulsion,3
+4/1/2026 19:40:15,Year 3,Mathematics,Female,Alhaji Hostel,12/31/2025,Malaria,1
+4/1/2026 19:40:17,Year 4,Computer Science and Engineering,Female,Off Campus,1/3/2026,No health condition,0
+4/1/2026 19:40:19,Year 4,ASCES,Male,Gold Refinery Hall,1/31/2026,Malaria,1
+4/1/2026 19:40:21,Year 3,ASCES,Male,Gold Refinery Hall,2/10/2026,Blood Pressure,3
+4/1/2026 19:40:23,Year 3,Mathematics,Female,Dubai Hostel,2/17/2026,Blood Pressure,5
+4/1/2026 19:40:25,Year 3,Computer Science and Engineering,Female,Credit Union Hostel,2/10/2026,Malaria,3
+4/1/2026 19:40:27,Year 4,Computer Science and Engineering,Female,Chamber of Mines Hall,2/11/2026,Stomach Ulcer,4
+4/1/2026 19:40:29,Year 3,Mechanical Engineering,Male,Chamber of Mines Hall,2/26/2026,Deficiency of iron,4
+4/1/2026 19:40:31,Year 3,Computer Science and Engineering,Male,Akoon,3/25/2026,Malaria,2
+4/1/2026 19:40:33,Year 1,Computer Science and Engineering,Male,Dubai Hostel,2/25/2026,Malaria,1
+4/1/2026 19:40:35,Year 2,Mathematics,Male,Serene,2/23/2026,Blood Pressure,5
+4/1/2026 19:40:37,Year 1,Computer Science and Engineering,Male,The Point Hostel,1/31/2026,Oblique Pulsion,3
+4/1/2026 19:40:39,Year 4,Chemical and Petrochemical Engineering,Male,TOVET Hostel,12/28/2025,Stomach Ulcer,2
+4/1/2026 19:40:41,Year 2,Computer Science and Engineering,Male,Akoon,1/9/2026,Malaria,3
+4/1/2026 19:40:43,Year 1,ASCES,Male,Off Campus,1/29/2026,Eye Swollen,4
+4/1/2026 19:40:45,Year 1,Mechanical Engineering,Male,Janie’s,2/3/2026,Mild Fever,5
+4/1/2026 19:40:47,Year 3,Chemical and Petrochemical Engineering,Female,The Point Hostel,1/16/2026,Eye Swollen,5
+4/1/2026 19:40:49,Year 1,Computer Science and Engineering,Male,RNM Main,3/4/2026,Deficiency of iron,5
+4/1/2026 19:44:21,Year 3,Geomatic Engineering,Male,Akobond Hostel,1/9/2026,Skin Infection,1
+4/1/2026 19:44:22,Year 4,Petroleum Engineering,Female,Chamber of Mines Hall,3/8/2026,Deficiency of iron,1
+4/1/2026 19:44:22,Year 3,Petroleum Engineering,Male,Off Campus,2/1/2026,Malaria,3
+4/1/2026 19:44:23,Year 2,Computer Science and Engineering,Female,The White Hostel,3/3/2026,Malaria,3
+4/1/2026 19:44:23,Year 3,Computer Science and Engineering,Male,De Lords,1/12/2026,Skin Infection,3
+4/1/2026 19:44:24,Year 2,Mechanical Engineering,Female,Layout,1/22/2026,Malaria,5
+4/1/2026 19:44:25,Year 3,Computer Science and Engineering,Female,CK Hostel,1/29/2026,Malaria,5
+4/1/2026 19:44:25,Year 3,Geomatic Engineering,Female,Off Campus,3/28/2026,Malaria,4
+4/1/2026 19:44:26,Year 3,Geomatic Engineering,Male,RNM Main,1/4/2026,Mild Fever,1
+4/1/2026 19:44:27,Year 3,Electrical and Electronic Engineering,Male,Janie’s,12/30/2025,Malaria,3
+4/1/2026 19:44:27,Year 3,ASCES,Male,Dubai Hostel,2/22/2026,Malaria,4
+4/1/2026 19:44:28,Year 3,Geomatic Engineering,Female,Hilda Hostel,1/13/2026,Malaria,3
+4/1/2026 19:44:28,Year 3,Computer Science and Engineering,Female,Chamber of Mines Hall,3/2/2026,Food Poisoning,2
+4/1/2026 19:44:29,Year 3,Environmental and Safety Engineering,Male,Hilda Hostel,1/6/2026,Malaria,4
+4/1/2026 19:44:30,Year 3,Mechanical Engineering,Female,Hilda Hostel,3/21/2026,Eye Swollen,3
+4/1/2026 19:44:30,Year 4,Computer Science and Engineering,Male,TOVET Hostel,2/20/2026,Malaria,2
+4/1/2026 19:44:31,Year 3,Computer Science and Engineering,Male,Serene,3/27/2026,Stomach Ulcer,3
+4/1/2026 19:44:31,Year 3,Computer Science and Engineering,Male,The Point Hostel,3/9/2026,Mild Fever,1
+4/1/2026 19:44:32,Year 3,Mining Engineering,Female,Layout,1/15/2026,Mild Fever,1
+4/1/2026 19:44:33,Year 1,ASCES,Male,CK Hostel,3/29/2026,Malaria,3
+4/1/2026 19:44:34,Year 3,Computer Science and Engineering,Female,Alhaji Hostel,1/4/2026,Malaria,4
+4/1/2026 19:44:33,Year 2,Computer Science and Engineering,Male,Janie’s,1/11/2026,Malaria,2
+4/1/2026 19:44:34,Year 3,Computer Science and Engineering,Male,Off Campus,3/31/2026,Migraine,2
+4/1/2026 19:44:35,Year 2,Computer Science and Engineering,Male,The Point Hostel,12/29/2025,Eye Swollen,1
+4/1/2026 19:44:36,Year 3,Minerals Engineering,Male,Akobond Hostel,1/5/2026,Malaria,3
+4/1/2026 19:44:36,Year 2,Mechanical Engineering,Female,PC,1/19/2026,Upper Respiratory Tract Infection (URTI),1
+4/1/2026 19:44:37,Year 1,Computer Science and Engineering,Male,Gold Refinery Hall,3/27/2026,Malaria,2
+4/1/2026 19:44:37,Year 3,Computer Science and Engineering,Male,Dubai Hostel,2/17/2026,Typhoid Fever,3
+4/1/2026 19:44:38,Year 3,Computer Science and Engineering,Female,PC,3/16/2026,Skin Infection,2
+4/1/2026 19:44:39,Year 3,Chemical and Petrochemical Engineering,Female,Credit Union Hostel,2/28/2026,Malaria,5
+4/1/2026 19:44:39,Year 3,Computer Science and Engineering,Female,Layout,1/20/2026,Food Poisoning,3
+4/1/2026 19:44:40,Year 3,Environmental and Safety Engineering,Male,Akobond Hostel,1/23/2026,No health condition,0
+4/1/2026 19:44:40,Year 3,Computer Science and Engineering,Female,TOVET Hostel,2/16/2026,Skin Infection,2
+4/1/2026 19:44:41,Year 3,Geological Engineering,Female,CK Hostel,2/13/2026,Muscle Spasm,1
+4/1/2026 19:44:42,Year 1,Minerals Engineering,Male,De Lords,1/12/2026,Stomach Ulcer,3
+4/1/2026 19:44:42,Year 3,Computer Science and Engineering,Female,Off Campus,1/15/2026,Food Poisoning,4
+4/1/2026 19:44:43,Year 2,Mathematics,Male,Alhaji Hostel,1/19/2026,Muscle Spasm,1
+4/1/2026 19:44:43,Year 1,Computer Science and Engineering,Male,Gold Refinery Hall,3/27/2026,No health condition,0
+4/1/2026 19:44:44,Year 2,Computer Science and Engineering,Male,Alhaji Hostel,3/1/2026,Malaria,5
+4/1/2026 19:44:45,Year 3,Computer Science and Engineering,Male,Gold Refinery Hall,3/1/2026,Stomach Ulcer,3
+4/1/2026 19:44:45,Year 3,SPETs,Male,Serene,12/31/2025,Malaria,4
+4/1/2026 19:44:46,Year 4,Mechanical Engineering,Male,Gold Refinery Hall,1/30/2026,Malaria,5
+4/1/2026 19:44:46,Year 4,Geomatic Engineering,Female,The White Hostel,2/9/2026,No health condition,0
+4/1/2026 19:44:47,Year 3,Mathematics,Female,Akobond Hostel,4/1/2026,Migraine,2
+4/1/2026 19:44:48,Year 4,Computer Science and Engineering,Male,Credit Union Hostel,3/15/2026,No health condition,0
+4/1/2026 19:44:48,Year 3,Mathematics,Female,Hilda Hostel,3/22/2026,Malaria,4
+4/1/2026 19:44:49,Year 3,Petroleum Engineering,Female,Off Campus,3/27/2026,Malaria,5
+4/1/2026 19:44:49,Year 2,Computer Science and Engineering,Female,Alhaji Hostel,3/11/2026,Malaria,4
+4/1/2026 19:44:50,Year 3,Computer Science and Engineering,Male,Layout,12/30/2025,Oblique Pulsion,2
+4/1/2026 19:44:52,Year 2,Computer Science and Engineering,Female,Credit Union Hostel,3/18/2026,Typhoid Fever,5
+4/1/2026 19:54:24,Year 3,ASCES,Male,Credit Union Hostel,6/17/2025,Malaria,3
+4/1/2026 19:54:26,Year 3,Mining Engineering,Male,Janie’s,3/26/2024,No health condition,0
+4/1/2026 19:54:28,Year 3,Petroleum Engineering,Male,CK Hostel,8/12/2025,Oblique Pulsion,3
+4/1/2026 19:54:30,Year 3,Computer Science and Engineering,Male,Off Campus,5/19/2024,Malaria,4
+4/1/2026 19:54:32,Year 3,Computer Science and Engineering,Female,KT hall,8/14/2025,Stomach Ulcer,3
+4/1/2026 19:54:34,Year 3,Geomatic Engineering,Male,Janie’s,12/16/2025,Typhoid Fever,4
+4/1/2026 19:54:36,Year 3,Computer Science and Engineering,Female,Off Campus,2/10/2024,Oblique Pulsion,1
+4/1/2026 19:54:38,Year 1,Computer Science and Engineering,Male,Layout,9/14/2025,Malaria,4
+4/1/2026 19:54:41,Year 3,Minerals Engineering,Female,KT hall,12/10/2025,Malaria,3
+4/1/2026 19:54:43,Year 3,Mining Engineering,Male,RNM Main,2/17/2026,Malaria,4
+4/1/2026 19:54:45,Year 3,Mechanical Engineering,Male,Dubai Hostel,9/3/2025,Deficiency of iron,2
+4/1/2026 19:54:47,Year 3,Computer Science and Engineering,Male,RNM Main,10/15/2025,Malaria,5
+4/1/2026 19:54:49,Year 3,Computer Science and Engineering,Female,PC,12/21/2025,Eye Swollen,2
+4/1/2026 19:54:51,Year 3,Computer Science and Engineering,Male,Floga hostel,3/3/2024,Malaria,2
+4/1/2026 19:54:53,Year 3,Computer Science and Engineering,Female,Kamp City,6/17/2024,Malaria,2
+4/1/2026 19:54:55,Year 4,Geological Engineering,Female,Gold Refinery Hall,2/24/2026,Malaria,5
+4/1/2026 19:54:57,Year 3,Computer Science and Engineering,Male,KT hall,1/4/2025,Malaria,4
+4/1/2026 19:54:59,Year 3,Geomatic Engineering,Male,Off Campus,1/5/2026,Skin Infection,2
+4/1/2026 19:55:02,Year 3,Computer Science and Engineering,Female,De Lords,1/6/2024,Mild Fever,2
+4/1/2026 19:55:04,Year 1,Environmental and Safety Engineering,Male,Fruben Hostel,10/23/2024,Malaria,2
+4/1/2026 19:55:06,Year 1,Computer Science and Engineering,Male,Floga hostel,9/11/2024,Stomach Ulcer,1
+4/1/2026 19:55:08,Year 1,Computer Science and Engineering,Female,CK Hostel,11/10/2025,Typhoid Fever,3
+4/1/2026 19:55:10,Year 1,Computer Science and Engineering,Female,Chamber of Mines Hall,12/4/2024,Migraine,1
+4/1/2026 19:55:12,Year 3,Computer Science and Engineering,Male,Akobond Hostel,6/2/2024,No health condition,0
+4/1/2026 19:55:14,Year 1,Mechanical Engineering,Male,Gold Refinery Hall,2/1/2026,Typhoid Fever,4
+4/1/2026 19:55:16,Year 1,Computer Science and Engineering,Female,Off Campus,12/19/2024,Malaria,4
+4/1/2026 19:55:18,Year 4,Geomatic Engineering,Female,Hilda Hostel,12/2/2024,Malaria,4
+4/1/2026 19:55:20,Year 2,Mechanical Engineering,Female,Floga hostel,9/6/2024,Malaria,4
+4/1/2026 19:55:22,Year 3,Minerals Engineering,Female,Alhaji Hostel,12/5/2025,Migraine,1
+4/1/2026 19:55:24,Year 3,Computer Science and Engineering,Female,Kabi's Hostel,5/1/2025,Food Poisoning,3
+4/1/2026 19:55:26,Year 3,Computer Science and Engineering,Male,Serene,7/8/2025,Typhoid Fever,2
+4/1/2026 19:55:28,Year 4,Mathematics,Female,Gold Refinery Hall,5/3/2024,Muscle Spasm,1
+4/1/2026 19:55:30,Year 3,Computer Science and Engineering,Male,Alhaji Hostel,6/26/2024,Malaria,2
+4/1/2026 19:55:32,Year 2,SPETs,Female,Hilda Hostel,11/4/2025,Skin Infection,3
+4/1/2026 19:55:34,Year 1,Mining Engineering,Male,Kabi's Hostel,4/14/2025,Deficiency of iron,2
+4/1/2026 19:55:37,Year 3,Computer Science and Engineering,Female,Chamber of Mines Hall,2/15/2025,Malaria,4
+4/1/2026 19:55:39,Year 4,Petroleum Engineering,Male,Kabi's Hostel,5/1/2024,Dysmenorrhea (Cramps),1
+4/1/2026 19:55:41,Year 3,Computer Science and Engineering,Female,Akoon,1/29/2024,Typhoid Fever,4
+4/1/2026 19:55:43,Year 2,Computer Science and Engineering,Female,Floga hostel,10/4/2024,Typhoid Fever,4
+4/1/2026 19:55:45,Year 3,SPETs,Female,Dubai Hostel,3/3/2025,Malaria,4
+4/1/2026 19:55:47,Year 3,Computer Science and Engineering,Female,Layout,4/21/2024,Malaria,2
+4/1/2026 19:55:49,Year 4,Computer Science and Engineering,Female,Kabi's Hostel,12/15/2024,Malaria,5
+4/1/2026 19:55:51,Year 3,Minerals Engineering,Male,Kamp City,9/30/2025,Typhoid Fever,2
+4/1/2026 19:55:53,Year 3,Computer Science and Engineering,Female,Janie’s,7/18/2024,Typhoid Fever,3
+4/1/2026 19:55:55,Year 3,Mechanical Engineering,Male,TOVET Hostel,1/20/2024,Dysmenorrhea (Cramps),1
+4/1/2026 19:55:57,Year 4,Geomatic Engineering,Male,Layout,12/6/2025,Malaria,5
+4/1/2026 19:55:59,Year 3,Computer Science and Engineering,Female,Fruben Hostel,5/22/2025,Food Poisoning,5
+4/1/2026 19:56:01,Year 3,Computer Science and Engineering,Male,Kabi's Hostel,1/2/2026,Malaria,4
+4/1/2026 19:56:03,Year 3,Computer Science and Engineering,Female,Akobond Hostel,4/26/2024,Muscle Spasm,3
+4/1/2026 19:56:05,Year 2,Minerals Engineering,Female,Off Campus,1/5/2024,Blood Pressure,2
+4/1/2026 20:01:13,Year 3,Mechanical Engineering,Male,RNM Main,10/14/2024,Deficiency of iron,3
+4/1/2026 20:01:14,Year 1,Computer Science and Engineering,Male,RNM Main,8/26/2025,Typhoid Fever,3
+4/1/2026 20:01:15,Year 4,Chemical and Petrochemical Engineering,Male,Kabi's Hostel,12/12/2024,Mild Fever,2
+4/1/2026 20:01:16,Year 1,ASCES,Female,Kabi's Hostel,12/10/2024,Migraine,2
+4/1/2026 20:01:16,Year 2,Minerals Engineering,Female,Dubai Hostel,3/6/2024,Oblique Pulsion,2
+4/1/2026 20:01:17,Year 2,Computer Science and Engineering,Male,PC,1/17/2024,Deficiency of iron,2
+4/1/2026 20:01:18,Year 2,Computer Science and Engineering,Male,PC,1/21/2025,No health condition,0
+4/1/2026 20:01:19,Year 1,Computer Science and Engineering,Female,KT hall,8/30/2024,Muscle Spasm,1
+4/1/2026 20:01:20,Year 2,Mathematics,Male,Serene,10/29/2024,Migraine,2
+4/1/2026 20:01:20,Year 3,Computer Science and Engineering,Female,Kamp City,6/18/2025,Mild Fever,1
+4/1/2026 20:01:21,Year 3,Geomatic Engineering,Male,Alhaji Hostel,7/8/2025,Migraine,2
+4/1/2026 20:01:22,Year 2,Geomatic Engineering,Male,Off Campus,2/25/2024,Food Poisoning,2
+4/1/2026 20:01:23,Year 1,Mathematics,Female,Chamber of Mines Hall,3/22/2026,Deficiency of iron,2
+4/1/2026 20:01:24,Year 4,ASCES,Male,Gold Refinery Hall,10/11/2024,Oblique Pulsion,2
+4/1/2026 20:01:24,Year 2,Geomatic Engineering,Male,Dubai Hostel,1/31/2024,No health condition,0
+4/1/2026 20:01:25,Year 1,Computer Science and Engineering,Female,Gold Refinery Hall,5/8/2024,Muscle Spasm,2
+4/1/2026 20:01:26,Year 3,Petroleum Engineering,Male,Chamber of Mines Hall,7/14/2024,Dysmenorrhea (Cramps),1
+4/1/2026 20:01:27,Year 1,Computer Science and Engineering,Female,Credit Union Hostel,1/17/2024,Oblique Pulsion,3
+4/1/2026 20:01:28,Year 1,Geomatic Engineering,Female,Serene,9/27/2025,Food Poisoning,2
+4/1/2026 20:01:28,Year 1,Computer Science and Engineering,Male,Kabi's Hostel,3/13/2025,Upper Respiratory Tract Infection (URTI),3
+4/1/2026 20:01:29,Year 3,Minerals Engineering,Male,Akobond Hostel,1/28/2026,Upper Respiratory Tract Infection (URTI),1
+4/1/2026 20:01:30,Year 1,Mechanical Engineering,Male,Credit Union Hostel,4/29/2025,Muscle Spasm,1
+4/1/2026 20:01:31,Year 1,Mining Engineering,Male,Akoon,7/4/2024,Skin Infection,2
+4/1/2026 20:01:32,Year 1,Chemical and Petrochemical Engineering,Male,Alhaji Hostel,9/30/2024,Oblique Pulsion,1
+4/1/2026 20:01:32,Year 1,Computer Science and Engineering,Male,Akoon,3/4/2024,Food Poisoning,2
+4/1/2026 20:01:33,Year 4,SPETs,Female,Kabi's Hostel,7/1/2024,Migraine,1
+4/1/2026 20:01:34,Year 2,Computer Science and Engineering,Male,Alhaji Hostel,5/25/2025,Food Poisoning,2
+4/1/2026 20:01:35,Year 3,Chemical and Petrochemical Engineering,Male,Off Campus,2/16/2024,Deficiency of iron,2
+4/1/2026 20:01:36,Year 1,Geomatic Engineering,Male,The White Hostel,4/12/2024,Eye Swollen,1
+4/1/2026 20:01:37,Year 4,Computer Science and Engineering,Male,De Lords,7/10/2024,No health condition,0
+4/1/2026 20:01:37,Year 4,Environmental and Safety Engineering,Male,De Lords,7/20/2024,Skin Infection,1
+4/1/2026 20:01:38,Year 2,Geomatic Engineering,Male,Gold Refinery Hall,4/2/2025,Migraine,1
+4/1/2026 20:01:39,Year 1,Computer Science and Engineering,Male,Janie’s,9/25/2025,Dysmenorrhea (Cramps),1
+4/1/2026 20:01:40,Year 2,Minerals Engineering,Female,The Point Hostel,7/25/2024,Eye Swollen,3
+4/1/2026 20:01:40,Year 4,Chemical and Petrochemical Engineering,Male,The White Hostel,1/13/2024,Eye Swollen,1
+4/1/2026 20:01:41,Year 1,Computer Science and Engineering,Male,PC,5/18/2024,Dysmenorrhea (Cramps),2
+4/1/2026 20:01:42,Year 3,Geological Engineering,Female,Janie’s,6/25/2025,Blood Pressure,3
+4/1/2026 20:01:43,Year 2,Computer Science and Engineering,Female,De Lords,10/23/2024,Blood Pressure,3
+4/1/2026 20:01:44,Year 1,Mining Engineering,Male,Chamber of Mines Hall,7/29/2024,Migraine,1
+4/1/2026 20:01:44,Year 2,Minerals Engineering,Male,Off Campus,7/18/2024,Mild Fever,2
+4/1/2026 20:01:45,Year 3,Computer Science and Engineering,Female,Janie’s,2/2/2024,Eye Swollen,2
+4/1/2026 20:01:46,Year 4,Computer Science and Engineering,Female,Floga hostel,1/28/2026,Eye Swollen,3
+4/1/2026 20:01:47,Year 2,Geomatic Engineering,Male,Gold Refinery Hall,4/4/2025,Food Poisoning,2
+4/1/2026 20:01:48,Year 2,Computer Science and Engineering,Male,CK Hostel,11/17/2024,Typhoid Fever,5
+4/1/2026 20:01:48,Year 2,Computer Science and Engineering,Female,Floga hostel,3/2/2026,No health condition,0
+4/1/2026 20:01:49,Year 2,Geological Engineering,Female,Hilda Hostel,3/3/2026,Oblique Pulsion,1
+4/1/2026 20:01:50,Year 2,Chemical and Petrochemical Engineering,Male,KT hall,4/7/2025,Skin Infection,3
+4/1/2026 20:01:51,Year 4,Computer Science and Engineering,Male,The Point Hostel,7/22/2025,Typhoid Fever,5
+4/1/2026 20:01:52,Year 1,Computer Science and Engineering,Female,Akoon,11/30/2025,Mild Fever,1
+4/1/2026 20:01:52,Year 2,Minerals Engineering,Male,CK Hostel,7/12/2024,Dysmenorrhea (Cramps),2
+4/1/2026 20:05:44,Year 1,ACSES,Male,The Point Hostel ,3/13/2024,Malaria ,0
+4/1/2026 21:43:24,Year 3,Minerals engineering ,Male,White house,4/1/2026,No problem ,1
+4/4/2026 12:31:08,Year 2,Electrical and Electronic Engineering,Female,De Lords,8/17/2024,Dysmenorrhea (Cramps),1
+4/4/2026 12:31:09,Year 2,Environmental and Safety Engineering,Female,Off Campus,4/28/2025,No health condition,0
+4/4/2026 12:31:10,Year 2,Chemical and Petrochemical Engineering,Male,The White Hostel,7/22/2024,Mild Fever,2
+4/4/2026 12:31:11,Year 1,Electrical and Electronic Engineering,Male,Floga hostel,1/15/2024,Blood Pressure,3
+4/4/2026 12:31:12,Year 2,Mining Engineering,Male,The White Hostel,4/16/2025,Stomach Ulcer,1
+4/4/2026 12:31:13,Year 2,Mining Engineering,Female,Chamber of Mines Hall,9/15/2025,No health condition,0
+4/4/2026 12:31:13,Year 2,Minerals Engineering,Female,Akobond Hostel,12/21/2024,Stomach Ulcer,1
+4/4/2026 12:31:14,Year 2,SPETs,Male,CK Hostel,2/16/2025,Stomach Ulcer,1
+4/4/2026 12:31:15,Year 2,Minerals Engineering,Female,Dubai Hostel,6/9/2024,Food Poisoning,2
+4/4/2026 12:31:16,Year 2,Environmental and Safety Engineering,Female,Akobond Hostel,3/20/2024,Skin Infection,3
+4/4/2026 12:31:17,Year 2,Electrical and Electronic Engineering,Female,Chamber of Mines Hall,9/3/2024,Skin Infection,3
+4/4/2026 12:31:18,Year 2,Minerals Engineering,Male,RNM Main,1/31/2025,Dysmenorrhea (Cramps),2
+4/4/2026 12:31:18,Year 4,Geomatic Engineering,Female,De Lords,10/30/2024,Typhoid Fever,4
+4/4/2026 12:31:19,Year 3,Minerals Engineering,Female,PC,9/21/2024,Upper Respiratory Tract Infection (URTI),3
+4/4/2026 12:31:20,Year 1,Chemical and Petrochemical Engineering,Male,Serene,8/13/2024,Mild Fever,2
+4/4/2026 12:31:21,Year 2,Geological Engineering,Male,KT hall,1/28/2025,Oblique Pulsion,3
+4/4/2026 12:31:22,Year 1,Geomatic Engineering,Female,Serene,2/2/2025,Skin Infection,3
+4/4/2026 12:31:23,Year 2,Chemical and Petrochemical Engineering,Male,Dubai Hostel,8/22/2025,Skin Infection,2
+4/4/2026 12:31:23,Year 1,Minerals Engineering,Male,The White Hostel,7/7/2025,Typhoid Fever,2
+4/4/2026 12:31:24,Year 2,Petroleum Engineering,Male,Hilda Hostel,1/26/2025,No health condition,0
+4/4/2026 12:31:25,Year 4,Electrical and Electronic Engineering,Female,TOVET Hostel,5/31/2024,Oblique Pulsion,2
+4/4/2026 12:31:26,Year 1,Mining Engineering,Female,Serene,6/21/2025,Blood Pressure,3
+4/4/2026 12:31:27,Year 1,Chemical and Petrochemical Engineering,Female,CK Hostel,4/30/2025,Upper Respiratory Tract Infection (URTI),1
+4/4/2026 12:31:27,Year 3,Minerals Engineering,Female,Alhaji Hostel,10/4/2025,Eye Swollen,1
+4/4/2026 12:31:28,Year 1,Geomatic Engineering,Female,De Lords,9/4/2024,Deficiency of iron,3
+4/4/2026 12:31:29,Year 2,Mechanical Engineering,Male,Janie’s,11/15/2024,Skin Infection,2
+4/4/2026 12:31:30,Year 2,Environmental and Safety Engineering,Male,De Lords,1/26/2025,Muscle Spasm,3
+4/4/2026 12:31:30,Year 1,SPETs,Female,Gold Refinery Hall,7/10/2025,Stomach Ulcer,3
+4/4/2026 12:31:31,Year 1,Environmental and Safety Engineering,Female,Kamp City,10/10/2024,Mild Fever,2
+4/4/2026 12:31:32,Year 2,Mechanical Engineering,Female,De Lords,10/17/2025,Blood Pressure,3
+4/4/2026 12:31:33,Year 2,Mining Engineering,Male,Chamber of Mines Hall,6/29/2025,Oblique Pulsion,2
+4/4/2026 12:31:33,Year 1,Mechanical Engineering,Male,Serene,7/16/2025,Muscle Spasm,2
+4/4/2026 12:31:34,Year 2,Chemical and Petrochemical Engineering,Male,The Point Hostel,11/16/2024,No health condition,0
+4/4/2026 12:31:35,Year 2,Geomatic Engineering,Male,Hilda Hostel,6/12/2024,Blood Pressure,1
+4/4/2026 12:31:36,Year 1,Chemical and Petrochemical Engineering,Male,Dubai Hostel,5/5/2025,Food Poisoning,2
+4/4/2026 12:31:36,Year 4,SPETs,Female,Dubai Hostel,11/8/2025,Typhoid Fever,2
+4/4/2026 12:31:37,Year 2,Petroleum Engineering,Female,Gold Refinery Hall,8/4/2025,No health condition,0
+4/4/2026 12:31:38,Year 2,Environmental and Safety Engineering,Female,Alhaji Hostel,12/11/2024,Mild Fever,1
+4/4/2026 12:31:39,Year 2,Electrical and Electronic Engineering,Male,Off Campus,9/11/2024,No health condition,0
+4/4/2026 12:31:39,Year 1,Petroleum Engineering,Female,Credit Union Hostel,2/10/2025,Skin Infection,2
+4/4/2026 12:31:40,Year 2,Minerals Engineering,Female,Chamber of Mines Hall,6/4/2024,Oblique Pulsion,1
+4/4/2026 12:31:41,Year 2,Chemical and Petrochemical Engineering,Male,Akobond Hostel,7/9/2024,Eye Swollen,1
+4/4/2026 12:31:42,Year 1,Electrical and Electronic Engineering,Male,Janie’s,4/3/2024,Typhoid Fever,4
+4/4/2026 12:31:42,Year 1,SPETs,Female,Kamp City,5/2/2025,Dysmenorrhea (Cramps),1
+4/4/2026 12:31:43,Year 1,Environmental and Safety Engineering,Female,Dubai Hostel,2/17/2024,Migraine,2
+4/4/2026 12:31:44,Year 4,SPETs,Male,Gold Refinery Hall,9/25/2025,Muscle Spasm,2
+4/4/2026 12:31:45,Year 2,SPETs,Male,Chamber of Mines Hall,7/24/2025,Blood Pressure,3
+4/4/2026 12:31:45,Year 2,Geomatic Engineering,Male,Chamber of Mines Hall,4/6/2025,Stomach Ulcer,2
+4/4/2026 12:31:46,Year 3,Mechanical Engineering,Male,Akobond Hostel,1/27/2024,Stomach Ulcer,1
+4/4/2026 12:31:47,Year 1,Petroleum Engineering,Female,PC,1/6/2025,Skin Infection,1
+4/4/2026 12:31:47,Year 2,Geological Engineering,Female,Fruben Hostel,11/12/2024,Oblique Pulsion,1
+4/4/2026 12:31:48,Year 4,Minerals Engineering,Female,RNM Main,6/28/2025,Mild Fever,2
+4/4/2026 12:31:49,Year 1,Mechanical Engineering,Male,Janie’s,2/9/2025,Food Poisoning,4
+4/4/2026 12:31:50,Year 4,Petroleum Engineering,Male,Floga hostel,4/20/2025,Muscle Spasm,1
+4/4/2026 12:31:50,Year 4,Geological Engineering,Female,Serene,7/20/2024,Deficiency of iron,3
+4/4/2026 12:31:51,Year 1,Electrical and Electronic Engineering,Male,TOVET Hostel,8/20/2025,Upper Respiratory Tract Infection (URTI),2
+4/4/2026 12:31:52,Year 3,Environmental and Safety Engineering,Female,Alhaji Hostel,2/25/2025,Skin Infection,2
+4/4/2026 12:31:53,Year 2,Mechanical Engineering,Male,Kabi's Hostel,3/14/2025,Food Poisoning,5
+4/4/2026 12:31:53,Year 4,Mechanical Engineering,Male,Janie’s,2/5/2024,Eye Swollen,2
+4/4/2026 12:31:54,Year 2,SPETs,Female,Akoon,2/12/2024,Stomach Ulcer,2
+4/4/2026 12:31:55,Year 1,Minerals Engineering,Male,Janie’s,7/8/2024,No health condition,0
+4/4/2026 12:31:56,Year 1,Mining Engineering,Male,The White Hostel,10/27/2025,Stomach Ulcer,1
+4/4/2026 12:31:57,Year 2,Geological Engineering,Male,Floga hostel,5/10/2025,Food Poisoning,4
+4/4/2026 12:31:57,Year 2,Mining Engineering,Male,De Lords,11/22/2024,Stomach Ulcer,3
+4/4/2026 12:31:58,Year 2,Environmental and Safety Engineering,Male,Alhaji Hostel,7/13/2025,Oblique Pulsion,1
+4/4/2026 12:31:59,Year 2,Geological Engineering,Male,Chamber of Mines Hall,12/15/2024,Typhoid Fever,4
+4/4/2026 12:32:00,Year 1,Mechanical Engineering,Male,Floga hostel,7/14/2024,No health condition,0
+4/4/2026 12:32:01,Year 1,Geomatic Engineering,Male,KT hall,9/9/2025,Skin Infection,2
+4/4/2026 12:32:02,Year 1,Mining Engineering,Female,De Lords,4/1/2024,Migraine,2
+4/4/2026 12:32:02,Year 1,Minerals Engineering,Male,KT hall,8/7/2024,Stomach Ulcer,2
+4/4/2026 12:32:03,Year 1,Mining Engineering,Female,RNM Main,5/15/2025,Migraine,1
+4/4/2026 12:32:04,Year 1,Mining Engineering,Male,Fruben Hostel,4/14/2025,Eye Swollen,2
+4/4/2026 12:32:04,Year 2,Petroleum Engineering,Male,TOVET Hostel,10/22/2025,Eye Swollen,2
+4/4/2026 12:32:05,Year 3,Electrical and Electronic Engineering,Male,Layout,11/8/2024,Migraine,2
+4/4/2026 12:32:06,Year 3,Minerals Engineering,Female,Fruben Hostel,5/2/2024,Migraine,2
+4/4/2026 12:32:07,Year 1,Geomatic Engineering,Female,Akobond Hostel,6/30/2025,Stomach Ulcer,1
+4/4/2026 12:32:07,Year 2,Petroleum Engineering,Female,TOVET Hostel,11/13/2025,Skin Infection,2
+4/4/2026 12:32:08,Year 2,Chemical and Petrochemical Engineering,Female,Layout,8/14/2024,Food Poisoning,5
+4/4/2026 12:32:09,Year 2,Mechanical Engineering,Male,RNM Main,9/29/2024,Food Poisoning,2
+4/4/2026 12:32:10,Year 3,Environmental and Safety Engineering,Female,Credit Union Hostel,3/26/2024,Migraine,1
+4/4/2026 12:32:11,Year 2,Mining Engineering,Male,KT hall,2/2/2024,Food Poisoning,4
+4/4/2026 12:32:11,Year 3,Geological Engineering,Female,Fruben Hostel,8/15/2024,Eye Swollen,1
+4/4/2026 12:32:12,Year 4,Chemical and Petrochemical Engineering,Male,Floga hostel,5/26/2025,Typhoid Fever,3
+4/4/2026 12:32:13,Year 2,Mechanical Engineering,Male,Dubai Hostel,12/20/2025,Eye Swollen,1
+4/4/2026 12:32:14,Year 2,Geological Engineering,Female,Alhaji Hostel,1/5/2024,Upper Respiratory Tract Infection (URTI),2
+4/4/2026 12:32:14,Year 1,Geomatic Engineering,Female,Hilda Hostel,10/20/2024,Mild Fever,2
+4/4/2026 12:32:15,Year 3,Chemical and Petrochemical Engineering,Male,Layout,4/28/2025,Food Poisoning,3
+4/4/2026 12:32:16,Year 2,Mining Engineering,Female,Off Campus,4/7/2024,Dysmenorrhea (Cramps),1
+4/4/2026 12:32:17,Year 3,Electrical and Electronic Engineering,Male,KT hall,11/7/2025,Mild Fever,1
+4/4/2026 12:32:17,Year 1,Mining Engineering,Female,Gold Refinery Hall,7/20/2024,Typhoid Fever,5
+4/4/2026 12:32:18,Year 1,Mechanical Engineering,Male,Janie’s,3/5/2025,Stomach Ulcer,2
+4/4/2026 12:32:19,Year 1,SPETs,Male,Serene,11/29/2024,Skin Infection,3
+4/4/2026 12:32:20,Year 1,Mechanical Engineering,Female,CK Hostel,12/4/2024,Blood Pressure,3
+4/4/2026 12:32:21,Year 2,Mechanical Engineering,Female,Akobond Hostel,1/19/2025,Oblique Pulsion,3
+4/4/2026 12:32:22,Year 3,Mining Engineering,Female,De Lords,1/2/2024,Upper Respiratory Tract Infection (URTI),1
+4/4/2026 12:32:22,Year 2,SPETs,Female,Alhaji Hostel,5/31/2025,Deficiency of iron,2
+4/4/2026 12:32:23,Year 1,Electrical and Electronic Engineering,Female,Layout,12/12/2025,Oblique Pulsion,3
+4/4/2026 12:32:24,Year 1,Environmental and Safety Engineering,Male,KT hall,8/16/2024,Skin Infection,3
+4/4/2026 12:32:25,Year 2,SPETs,Male,Off Campus,9/15/2024,Eye Swollen,1
+4/4/2026 12:32:26,Year 3,SPETs,Male,Kabi's Hostel,10/31/2024,Migraine,1

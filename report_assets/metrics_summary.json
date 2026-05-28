@@ -1,0 +1,58 @@
+{
+  "record_count": 5799,
+  "weekly_periods": 116,
+  "model_a": {
+    "k": 3,
+    "silhouette": 0.3888809004550857,
+    "cluster_counts": {
+      "0": 1674,
+      "1": 2295,
+      "2": 1830
+    }
+  },
+  "model_b": {
+    "k": 4,
+    "silhouette": 0.07938488251129623,
+    "cluster_label_map": {
+      "0": "Tropical Illness",
+      "1": "Severe/Water-Borne",
+      "2": "Fresher Burnout",
+      "3": "Minor Ailments"
+    },
+    "cluster_counts": {
+      "Fresher Burnout": 879,
+      "Minor Ailments": 2108,
+      "Severe/Water-Borne": 1195,
+      "Tropical Illness": 1617
+    }
+  },
+  "forecast": {
+    "lr": {
+      "mae": 4.309596158197129e-14,
+      "rmse": 4.75089732717773e-14,
+      "r2": 1.0
+    },
+    "rf": {
+      "mae": 13.181430080064862,
+      "rmse": 16.921487822937532,
+      "r2": 0.4726891850939432
+    },
+    "rows": 113,
+    "split_train": 90,
+    "split_test": 23,
+    "rf_cv": {
+      "mae_mean": 9.928437078434055,
+      "mae_std": 3.505699938239121,
+      "rmse_mean": 12.716488738541866,
+      "rmse_std": 4.068432814461151,
+      "r2_mean": 0.4193248927108904,
+      "r2_std": 0.2949410155472643
+    }
+  },
+  "library_versions": {
+    "pandas": "3.0.2",
+    "numpy": "2.4.4",
+    "scikit_learn": "1.8.0",
+    "matplotlib": "3.10.8"
+  }
+}
